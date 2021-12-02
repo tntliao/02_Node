@@ -1,0 +1,25 @@
+[2021-11-29T17:21:37.715] [DEBUG] cheese - {}
+[2021-11-29T17:21:56.074] [DEBUG] cheese - [Object: null prototype] { name: '123', age: 'asdasd' }
+[2021-11-29T17:22:18.201] [DEBUG] cheese - [Object: null prototype] { name: '123', age: 'asdasd' }
+[2021-11-29T17:22:37.759] [DEBUG] cheese - {}
+[2021-11-29T17:28:44.902] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }
+[2021-11-29T17:28:56.092] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }
+[2021-11-29T17:29:08.890] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }
+[2021-11-29T17:29:10.090] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }
+[2021-11-29T17:29:44.244] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }
+[2021-11-29T17:30:43.194] [DEBUG] cheese - undefined
+[2021-11-29T17:30:44.010] [DEBUG] cheese - undefined
+[2021-11-29T17:30:53.224] [DEBUG] cheese - undefined
+[2021-11-29T17:30:55.120] [DEBUG] cheese - undefined
+[2021-11-29T17:30:55.625] [DEBUG] cheese - undefined
+[2021-11-29T17:30:56.071] [DEBUG] cheese - undefined
+[2021-11-29T17:30:56.512] [DEBUG] cheese - undefined
+[2021-11-29T17:30:56.862] [DEBUG] cheese - undefined
+[2021-11-29T17:30:57.305] [DEBUG] cheese - undefined
+[2021-11-29T17:30:57.629] [DEBUG] cheese - undefined
+[2021-11-29T17:30:57.987] [DEBUG] cheese - undefined
+[2021-11-29T17:30:59.314] [DEBUG] cheese - undefined
+[2021-11-29T17:31:00.712] [DEBUG] cheese - undefined
+[2021-11-29T17:31:01.136] [DEBUG] cheese - undefined
+[2021-11-29T17:31:09.310] [DEBUG] cheese - undefined
+[2021-11-29T17:31:19.541] [DEBUG] cheese - [Object: null prototype] { name: 'ljj', age: '18' }

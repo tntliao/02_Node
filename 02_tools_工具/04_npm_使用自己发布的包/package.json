@@ -1,0 +1,23 @@
+{
+  "name": "04_pagename",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "runjs": "node ../05_scripts/01_script.js && node ../05_scripts/02_script.js",
+    "dev": "cross-env NODE_ENV=development node ../06_访问package",
+    "getpackage": "node ../06_访问package"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yesdo": "^1.0.4"
+  },
+  "config": {
+    "email": "tntliao@qq.com"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
+  }
+}

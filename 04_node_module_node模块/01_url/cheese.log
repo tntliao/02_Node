@@ -1,0 +1,28 @@
+[2021-11-28T19:13:24.645] [DEBUG] cheese - URL {
+  href: 'https://user:pass@sub.example.com:8080/p/a/t/h?query=string#hash',
+  origin: 'https://sub.example.com:8080',
+  protocol: 'https:',
+  username: 'user',
+  password: 'pass',
+  host: 'sub.example.com:8080',
+  hostname: 'sub.example.com',
+  port: '8080',
+  pathname: '/p/a/t/h',
+  search: '?query=string',
+  searchParams: URLSearchParams { 'query' => 'string' },
+  hash: '#hash'
+}
+[2021-11-28T19:15:41.355] [DEBUG] cheese - URL {
+  href: 'https://www.hihonor.com/cn/products/laptops/magicbook-v-14-exclusive/',
+  origin: 'https://www.hihonor.com',
+  protocol: 'https:',
+  username: '',
+  password: '',
+  host: 'www.hihonor.com',
+  hostname: 'www.hihonor.com',
+  port: '',
+  pathname: '/cn/products/laptops/magicbook-v-14-exclusive/',
+  search: '',
+  searchParams: URLSearchParams {},
+  hash: ''
+}
